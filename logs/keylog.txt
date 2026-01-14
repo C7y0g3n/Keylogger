@@ -1,0 +1,8 @@
+Keylogger started at 2026-01-13 19:32:47
+Key pressed: a
+Key pressed: a
+Key pressed: s
+Key pressed: d
+Key pressed: a
+Key pressed: s
+Key pressed: d
